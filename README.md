@@ -1,4 +1,4 @@
-[![React Developer](https://example.com/react-developer-banner.png)](https://your-portfolio-website.com)
+![React Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf6cY8berLOfGUhIeS6SgtE_McofpYl8zCjg&usqp=CAU) ()
 <h1 align="center">Hi 👋, I'm Natnael Ababu</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Ethiopia</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
